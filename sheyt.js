@@ -54,6 +54,6 @@ function resetTheme() {
     document.body.style.backgroundColor = "#8d99ae";
     document.body.style.color = "black";
     document.body.style.fontFamily = "default";
-    updateImage("IMG/UGHHHHH");
+    updateImage("IMG/UGHHHHH.jpg");
     currentTheme = "main";
 }
