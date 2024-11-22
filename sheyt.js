@@ -20,7 +20,7 @@ function Blue(theme) {
         document.body.style.backgroundColor = "#bde0fe";
         document.body.style.color = "white";
         document.body.style.fontFamily = "Arial, sans-serif";
-        updateImage("img/man.jpg");
+        updateImage("IMG/WATER.jpg");
         currentTheme = "blue";
     }
 }
@@ -32,7 +32,7 @@ function Pink(theme) {
         document.body.style.backgroundColor = "#ffafcc";
         document.body.style.color = "black";
         document.body.style.fontFamily = "'Comic Sans MS', cursive";
-        updateImage("img/girl.jpg");
+        updateImage("IMG/kayata.jpg");
         currentTheme = "pink";
     }
 }
@@ -44,7 +44,7 @@ function Brown(theme) {
         document.body.style.backgroundColor = "#a98467";
         document.body.style.color = "white";
         document.body.style.fontFamily = "'Times New Roman', Times, serif";
-        updateImage("img/elder.png");
+        updateImage("IMG/old.jpg");
         currentTheme = "brown";
     }
 }
@@ -54,6 +54,6 @@ function resetTheme() {
     document.body.style.backgroundColor = "#8d99ae";
     document.body.style.color = "black";
     document.body.style.fontFamily = "default";
-    updateImage("img/meme.png");
+    updateImage("IMG/UGHHHHH");
     currentTheme = "main";
 }
