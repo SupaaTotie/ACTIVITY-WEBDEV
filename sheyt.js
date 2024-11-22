@@ -45,7 +45,7 @@ function Brown(theme) {
         document.body.style.color = "white";
         document.body.style.fontFamily = "'Times New Roman', Times, serif";
         updateImage("IMG/old.jpg");
-        currentTheme = "brown";
+        currentTheme ="brown";
     }
 }
 
@@ -54,6 +54,6 @@ function resetTheme() {
     document.body.style.backgroundColor = "#8d99ae";
     document.body.style.color = "black";
     document.body.style.fontFamily = "default";
-    updateImage("IMG/UGHHHHH.jpg");
+    updateImage("IMG/cat.jpg");
     currentTheme = "main";
 }
